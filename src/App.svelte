@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const TITLE = "The Solana Car Club";
+  const DESCRTIPTION = "A Collection of classic cars on the Solana Blockchain.";
+  const HEADER_TITLE = "Solana Car Club";
+  const HEADER_LINK = "http://www.solanacarclub.com";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/vercel.gif";
   /***********************************/
 
   const { solana } = window as any;
